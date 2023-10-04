@@ -7,14 +7,18 @@ A double linked list with a custom data type. Methods use pointers to manipulate
 This is a Double Linked List Manipulator equipped with an easy-to-use menu and several custom functions that work.
 
 #File Structure of the project submitted:
+
   Main.cpp
   README.pdf
   
-#How to get started? /n
+#How to get started?
+
   Describe the input required from the user
   Start by creating list (option 1)
   Once created any functions can be used (CAUTION: recalling the create list creates a brand new list again and deletes previous list)
   EvenOddSplit function and the exit button terminates program
+
+  
 #Describe what function is called by each input and briefly describe each function.
 1. Creates a list using the given data. Essentially calls constructor
 2. Calls destructor that destroys the list
