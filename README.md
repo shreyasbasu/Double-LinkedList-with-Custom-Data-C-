@@ -3,14 +3,14 @@ Shreyas Basu
 # Double-LinkedList-with-Custom-Data-C-
 A double linked list with a custom data type. Methods use pointers to manipulate data in different ways.
 
-#Brief Description of the Project
+#Brief Description of the Project:
 This is a Double Linked List Manipulator equipped with an easy-to-use menu and several custom functions that work.
 
-#File Structure of the project submitted
+#File Structure of the project submitted:
   Main.cpp
   README.pdf
   
-#How to get started?
+#How to get started? /n
   Describe the input required from the user
   Start by creating list (option 1)
   Once created any functions can be used (CAUTION: recalling the create list creates a brand new list again and deletes previous list)
