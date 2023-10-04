@@ -36,20 +36,20 @@ This is a Double Linked List Manipulator equipped with an easy-to-use menu and s
 14. Exits the program
 
 #Runtime: The Big 0 of each function
-printLIst: O(n)
-getHead O(1)
-getTail O(1)
-getLength: O(1)
-get: O(n)
-set: O(n)
-append: O(1)
-prepend: O(1)
-insert: O(n)
-deleteAtHead: O(1)
-deleteAtTail: O(1)
-deleteAtIndex: O(n)
-sortList: O(n^2)
-countMultiples: O(n)
-reverseList: O(n)
-removeMultiples: O(n^2)
+printLIst: O(n),
+getHead: O(1),
+getTail: O(1),
+getLength: O(1),
+get: O(n),
+set: O(n),
+append: O(1),
+prepend: O(1),
+insert: O(n),
+deleteAtHead: O(1),
+deleteAtTail: O(1),
+deleteAtIndex: O(n),
+sortList: O(n^2),
+countMultiples: O(n),
+reverseList: O(n),
+removeMultiples: O(n^2),
 evenOddSplit: O(n)
